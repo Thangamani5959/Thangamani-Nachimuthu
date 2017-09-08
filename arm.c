@@ -13,8 +13,4 @@ if(a==b)
 {
 printf("armstrong);
 }
-else
-{
-printf("not armstrong");
-}
 }
